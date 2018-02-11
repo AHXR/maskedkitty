@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Masked_Kitty.png</file>
+        <file>maskedkittyicon.ico</file>
+    </qresource>
+</RCC>
